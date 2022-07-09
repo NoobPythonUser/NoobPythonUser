@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NoobPythonUser
+- 👀 I’m interested in photography, coding and working out.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on python projects
+- 📫 How to reach me ? you can't ;)
